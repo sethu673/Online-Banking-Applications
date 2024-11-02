@@ -7,19 +7,26 @@ An Online Banking Application built with Java and JDBC that enables users to man
 Table of Contents:-
 
 1)Project Overview
+
 2)Features
+
 3)Technologies Used
+
 4)Database Design
+
 5)Installation
+
 6)Usage
+
 7)Contributing
+
 8)License
 
-Project Overview
+Project Overview:-
 
 This Online Banking Application simulates basic banking operations for individual users, offering a secure, user-friendly platform to handle financial transactions and manage bank accounts. The project aims to provide experience in building real-world applications with Java and JDBC, highlighting the importance of data security and database integration.
 
-Features
+Features:-
 
 Account Management: Register, update, and delete user accounts.
 
